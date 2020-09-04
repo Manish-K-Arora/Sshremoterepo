@@ -1,2 +1,3 @@
 Hello I am learning Git 
 This is the second line --<edited remotely>--
+//add something new --<remotely>--
