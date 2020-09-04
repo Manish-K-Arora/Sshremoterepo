@@ -3,3 +3,5 @@ This is the second line --<edited remotely>--
 //add something new --<remotely>--
 
 This is something new to me.
+
+Git push and pull commands are very useful.
